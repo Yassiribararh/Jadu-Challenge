@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1716767043">
+  <project timestamp="1716767043">
+    <file name="/home/yass/Desktop/Jadu-Challenge/jadu_app/src/Controller/MainController.php">
+      <class name="App\Controller\MainController" namespace="global">
+        <metrics complexity="4" methods="4" coveredmethods="4" conditionals="0" coveredconditionals="0" statements="7" coveredstatements="7" elements="11" coveredelements="11"/>
+      </class>
+      <line num="17" type="method" name="__construct" visibility="public" complexity="1" crap="1" count="3"/>
+      <line num="18" type="stmt" count="3"/>
+      <line num="21" type="method" name="checkIsPalindrome" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="24" type="stmt" count="1"/>
+      <line num="25" type="stmt" count="1"/>
+      <line num="28" type="method" name="checkIsAnagram" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="31" type="stmt" count="1"/>
+      <line num="32" type="stmt" count="1"/>
+      <line num="35" type="method" name="checkIsPangram" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="38" type="stmt" count="1"/>
+      <line num="39" type="stmt" count="1"/>
+      <metrics loc="42" ncloc="42" classes="1" methods="4" coveredmethods="4" conditionals="0" coveredconditionals="0" statements="7" coveredstatements="7" elements="11" coveredelements="11"/>
+    </file>
+    <file name="/home/yass/Desktop/Jadu-Challenge/jadu_app/src/Kernel.php">
+      <class name="App\Kernel" namespace="global">
+        <metrics complexity="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+      </class>
+      <metrics loc="12" ncloc="12" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+    </file>
+    <file name="/home/yass/Desktop/Jadu-Challenge/jadu_app/src/Service/Operations.php">
+      <class name="App\Service\Operations" namespace="global">
+        <metrics complexity="6" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="22" coveredstatements="22" elements="25" coveredelements="25"/>
+      </class>
+      <line num="9" type="method" name="isPalindrome" visibility="public" complexity="2" crap="2" count="2"/>
+      <line num="11" type="stmt" count="2"/>
+      <line num="14" type="stmt" count="2"/>
+      <line num="15" type="stmt" count="2"/>
+      <line num="18" type="stmt" count="1"/>
+      <line num="21" type="method" name="isAnagram" visibility="public" complexity="2" crap="2" count="2"/>
+      <line num="23" type="stmt" count="2"/>
+      <line num="24" type="stmt" count="2"/>
+      <line num="27" type="stmt" count="2"/>
+      <line num="28" type="stmt" count="2"/>
+      <line num="31" type="stmt" count="2"/>
+      <line num="32" type="stmt" count="2"/>
+      <line num="35" type="stmt" count="2"/>
+      <line num="36" type="stmt" count="2"/>
+      <line num="39" type="stmt" count="1"/>
+      <line num="42" type="method" name="isPangram" visibility="public" complexity="2" crap="2" count="2"/>
+      <line num="44" type="stmt" count="2"/>
+      <line num="47" type="stmt" count="2"/>
+      <line num="50" type="stmt" count="2"/>
+      <line num="53" type="stmt" count="2"/>
+      <line num="56" type="stmt" count="2"/>
+      <line num="59" type="stmt" count="2"/>
+      <line num="62" type="stmt" count="2"/>
+      <line num="63" type="stmt" count="1"/>
+      <line num="66" type="stmt" count="2"/>
+      <metrics loc="69" ncloc="56" classes="1" methods="3" coveredmethods="3" conditionals="0" coveredconditionals="0" statements="22" coveredstatements="22" elements="25" coveredelements="25"/>
+    </file>
+    <file name="/home/yass/Desktop/Jadu-Challenge/jadu_app/src/Service/OperationsInterface.php">
+      <metrics loc="13" ncloc="13" classes="0" methods="0" coveredmethods="0" conditionals="0" coveredconditionals="0" statements="0" coveredstatements="0" elements="0" coveredelements="0"/>
+    </file>
+    <metrics files="4" loc="136" ncloc="123" classes="2" methods="7" coveredmethods="7" conditionals="0" coveredconditionals="0" statements="29" coveredstatements="29" elements="36" coveredelements="36"/>
+  </project>
+</coverage>
